@@ -1,0 +1,1 @@
+print("python learning is easy")
